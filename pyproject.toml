@@ -7,5 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "flask>=3.1.0",
     "matplotlib>=3.10.1",
+    "mpmath>=1.3.0",
     "numpy>=2.2.5",
 ]
